@@ -2,4 +2,4 @@
 
 foo bar bazzzzz
 
-https://github.com/haldun/redesigned-computing-machine/blob/main/foo.png
+https://github.com/github/mobile-ios/issues/349234234
